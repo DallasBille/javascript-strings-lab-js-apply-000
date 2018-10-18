@@ -1,6 +1,5 @@
+ var greeting = "Hello, everybody!";
 function greeting(){
-  
-  var greeting = "Hello, everybody!";
   
   return greeting
   }
