@@ -3,10 +3,10 @@ function greeting(){
   
   return greeting
   }
-
-function greetSpecialGuest(){
-  var specialGuest = "Neil deGrasse Tyson";
+var specialGuest = "Neil deGrasse Tyson";
 var greetSpecialGuest = "Hello" + specialGuest + "!";
+function greetSpecialGuest(){
+
 return greetSpecialGuest
   
 }
