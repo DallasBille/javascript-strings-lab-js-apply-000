@@ -4,7 +4,7 @@ function greeting(){
   return greeting
   }
 var specialGuest = "Neil deGrasse Tyson";
-var greetSpecialGuest = "Hello" + specialGuest + "!";
+var greetSpecialGuest = "Hello," + specialGuest + "!";
 function greetSpecialGuest(){
 
 return greetSpecialGuest
