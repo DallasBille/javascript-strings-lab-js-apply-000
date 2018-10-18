@@ -5,7 +5,7 @@ function greeting(){
 }
 function greetSpecialGuest(){
   
-  var specialGuest = "Neil deGrasse Tyson"
+ var specialGuest = "Neil deGrasse Tyson";
   
   return `Hello,${specialGuest}!`
 }
