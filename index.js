@@ -11,8 +11,8 @@ function greetSpecialGuest(){
 
 
 
-var greetSpecialGuest = "" + specialGuest + "!";
+//var greetSpecialGuest = "" + specialGuest + "!";
 
-var topic = "space";
+//var topic = "space";
 
-var conversation = `${topic}`;
+//var conversation = `${topic}`;
