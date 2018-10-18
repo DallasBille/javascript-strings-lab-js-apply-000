@@ -3,7 +3,7 @@ function greeting(){
   return greeting
   
 }
-var specialGuest = "Neil deGrasse Tyson"
+var greetSpecialGuest = "Neil deGrasse Tyson"
 function specialGuest(){
   
   return "Hello, "+ specialGuest+"!"
