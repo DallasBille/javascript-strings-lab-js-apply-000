@@ -1,11 +1,14 @@
-var greeting = "Hello, everybody!";
 function greeting(){
-  return greeting
   
-}
-var specialGuest = "Neil deGrasse Tyson";
+  var greeting = "Hello, everybody!";
+  
+  return greeting
+  }
+
 function greetSpecialGuest(){
+  
   var specialGuest = "Neil deGrasse Tyson";
+  
   return `Hello, ${specialGuest}!`
 }
 
