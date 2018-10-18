@@ -3,8 +3,11 @@ function greeting(){
   return greeting
   
 }
-
+function specialGuest(){
+  
+}
 var specialGuest = "Neil deGrasse Tyson"
+
 
 var greetSpecialGuest = "" + specialGuest + "!";
 
