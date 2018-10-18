@@ -13,7 +13,7 @@ return greetSpecialGuest
 
 var topic = "space";
 
-var conversation = `Let's talk about ${topic}`;
+var conversation = `Let's talk about ${topic}.`;
 
 function conversation(){
   return conversation
